@@ -1,8 +1,6 @@
 
 # Código de Conduta da Conferência
 
-## Leiam se sigam o código de conduta
-
 Participantes, palestrantes, representantes de empresas e pessoas voluntárias da conferência precisam concordar com este código de conduta. A equipe organizadora vai reforçar que este código seja seguido durante todo o evento. Esperamos a cooperação de todas as partes para ajudar a garantir um ambiente seguro para qualquer pessoa.
 
 ## Versão rápida
